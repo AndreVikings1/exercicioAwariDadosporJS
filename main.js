@@ -6,6 +6,7 @@ function chamarArtigo() {
     artigo.classList.add('artigo')
 
     artigo.innerHTML += `
+    
         <h2> Ad til </h2>
         <p>
         Alguns dos benefícios desses é o poder regenerador da pele, hidratante, anti-inflamatório… 

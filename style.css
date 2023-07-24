@@ -1,0 +1,63 @@
+
+.pagina {
+    margin: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-color: aqua;
+    height: 2em;
+    }
+    header h1{
+      padding: 4px;
+      font-size: 20px;
+      margin-left: 10px;
+        }
+
+nav {
+    background-color: black;
+  
+}
+nav ul {
+  margin-left: 80%;
+  height: 2em;
+  
+}
+nav li {
+    display: inline-block;
+    margin-left: 2%;
+    padding: 0.5em;
+      
+}
+nav li a {
+       text-decoration: none;
+       color: antiquewhite;
+}
+
+/* Editando Artigo*/
+
+.artigo {
+    background-color: rgb(191, 249, 230);
+}
+
+h2 {
+    font-size: 18px;
+    font-weight: bolder;
+    text-align: center;
+    margin-bottom: 12px;
+    margin-top: 12px;
+}
+
+p {
+    color: rgb(59, 57, 57);
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    height: 32px;
+    }
+footer p{
+   color: rgb(255, 255, 255);
+   padding: 8px;
+}
